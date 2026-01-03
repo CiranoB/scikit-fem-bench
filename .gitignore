@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+# Benchmarks results
+gpu_versions_results.txt
+cpu_version_results.txt
+stats.prof
